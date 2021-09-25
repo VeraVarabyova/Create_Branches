@@ -1,7 +1,7 @@
 {
 	"info": {
-		"_postman_id": "26f79e35-aa8b-4b84-887e-64fa34743097",
-		"name": "New Collection",
+		"_postman_id": "61168274-9f3f-4669-968e-12ac9236c255",
+		"name": "HW_1_Postman_Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -193,7 +193,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://162.55.220.72:5005/object_info_2?name=Vera&age=36&salary=1000",
+					"raw": "http://162.55.220.72:5005/object_info_4?name=Vera&age=36&salary=1000",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -203,7 +203,7 @@
 					],
 					"port": "5005",
 					"path": [
-						"object_info_2"
+						"object_info_4"
 					],
 					"query": [
 						{
